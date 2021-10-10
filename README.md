@@ -1,29 +1,21 @@
-<h1 align="center">Hi 👋, I'm Tarif</h1>
-<h3 align="center">A professional full-stack web developer from Bangladesh</h3>
+### Hi there 👋, Hey I'am Tarif
+#### full-stack web developer f
+![full-stack web developer f](https://github.com/tarif-al-hasan/tarif-al-hasan/blob/main/github%20banner.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarif-al-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="tarif-al-hasan" /> </p>
+I am a full-stack web developer. I gain my Skills from interactive care on my Web Development course in Bangladesh. I appear at many live Projects in my training period and achieved Many experiences.  I have full responsibility for my work and my aim is to build a heartfelt and mature relationship with My clients. Thank You
 
-- 🔭 I’m currently working on **Interative Cares**
+Skills:  REACT / JS / HTML / CSS/SCSS/PYTHON/DJANGO/JAVA/MYSQAL/TAILWANDCSS
 
-- 🌱 I’m currently learning **React,Django,Interative-cares-course**
+- 🔭 I’m currently working on Interative cares 
+- 🌱 I’m currently learning Javascript,Python,Java 
 
-- 👨‍💻 All of my projects are available at [https://tarifalhasan.blogspot.com/](https://tarifalhasan.blogspot.com/)
 
-- 💬 Ask me about **react,django**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tarif-al-hasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tarifalhasan674)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Tarif Al Hasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](ifalhasan.blogspot.com)  
 
-- 📫 How to reach me **tarifalhasan999@gmail.com**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarif-al-hasan)](https://github.com/anuraghazra/github-readme-stats)
 
-- 📄 Know about my experiences [https://tarifalhasan.blogspot.com/](https://tarifalhasan.blogspot.com/)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tarif-al-hasan&show_icons=true)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tarifalhasan674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tarifalhasan674" height="30" width="40" /></a>
-<a href="https://fb.com/tarifalhasan674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tarifalhasan674" height="30" width="40" /></a>
-</p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tarif-al-hasan)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarif-al-hasan&show_icons=true&locale=en&layout=compact" alt="tarif-al-hasan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarif-al-hasan&" alt="tarif-al-hasan" /></p>
+![Profile views](https://gpvc.arturio.dev/tarif-al-hasan)  
