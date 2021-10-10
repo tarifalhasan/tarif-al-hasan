@@ -1,4 +1,4 @@
-![I am harun181](https://github.com/harun181/harun181/blob/main/page.png)
+![I am harun181](https://github.com/tarif-al-hasan/tarif-al-hasan/blob/main/github%20banner.jpg)
 
 
 <h1 align="center">Hi 👋, I'm TARIF AL HASAN</h1>
@@ -12,24 +12,24 @@ Knock me: m.facebook.com/tarifalhasan674c
 Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
  
 
-- 🔭 I’m currently working on [Hablu Programmer Team](https://habluprogrammer.com/)
+- 🔭 I’m currently working on [Interative cares Team](https://interactivecares.com/)
 
 - 🌱 I’m currently learning **JS, Python, React ,Java , typeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tarif-al-hasan](https://github.com/tarif-al-hasan)
 
-- 📝 I regularly write articles on [https://habluprogrammer.com/](https://habluprogrammer.com/)
+- 📝 I regularly write articles on [https://tarifalhasan.blogspot.com//](https://tarifalhasan.blogspot.com/)
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap ,React, Django**
 
-- 📫 How to reach me **mdtutul763@gmail.com**
+- 📫 How to reach me **tarifalhasan674@gmail.com**
 
-- 📄 All About Me:[https://linktr.ee/tutul181] https://tarifalhasan.blogspot.com/
+- 📄 All About Me:[https://tarifalhasan.blogspot.com/] https://tarifalhasan.blogspot.com/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/tutul.qcsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul.qcsc" height="30" width="40" /></a>
-<a href="https://twitter.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
+<a href="https://fb.com/tarifalhasan674.qcsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul.qcsc" height="30" width="40" /></a>
+<a href="https://twitter.com/tarifalhasan674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
 <a href="https://codepen.io/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harun181" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hablu programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hablu programmer" height="30" width="40" /></a>
