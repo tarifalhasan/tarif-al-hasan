@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm TARIF AL HASAN</h1>
-<h3 align="center">MERN Stack Web Developer and Web Designer of Hablu Programmer</h3>
+<h3 align="center">Junior Front End Developer</h3>
 
 ![Profile views](https://github.com/tarif-al-hasan/tarif-al-hasan/blob/main/github%20banner.jpg)
 
